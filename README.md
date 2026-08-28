@@ -24,7 +24,6 @@ in Excel, Power BI, SQL, Python, and Machine Learning with a track record of bui
   <li>Excel</li>
   <li>PowerBI</li>
   <li>SQL</li>
-  <li>AWS</li>
 </ul>
 
 <h2>Statistical Techniques & ML:</h2>
@@ -41,6 +40,7 @@ in Excel, Power BI, SQL, Python, and Machine Learning with a track record of bui
 
 <h2>Other Technical Skills:</h2>
 <ul>
+  <li>AWS</li>
   <li>MongoDB</li>
   <li>Flask</li>
   <li>Web Scraping</li>
