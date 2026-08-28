@@ -4,16 +4,17 @@
 <h1 align="center">Hi 👋, I'm Vamshi Krishna Bodige</h1><p align="left">
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
 
-- 📫 How to reach me **vbodige750@gmail.com**
+- 📫 How to reach me **vamshikrishna.bodige@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "https://www.linkedin.com/in/bodige//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/bodige"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## Introduction
 
-I possess a strong passion for Machine Learning and Data Analysis. I am pursuing Master's degree in Scientific Instrumentation, I have built a solid foundation and an innate understanding of machine learning techniques and statistical analysis. Along my journey, I have engaged in numerous projects and experiences that have not only honed my technical skills but also enhanced my ability to effectively communicate complex concepts. This, coupled with my scientific background, has equipped me with the expertise to make well-informed strategic decisions.
+Data Analyst with an engineering background and hands-on experience turning sales, finance, production, test-bench, and manufacturing data into automated reports and dashboards. Skilled 
+in Excel, Power BI, SQL, Python, and Machine Learning with a track record of building reusable analysis tools that supported process control and delivered a 30% efficiency gain in a manufacturing setting. Comfortable working across technical and commercial teams, quick to learn new systems.
 <br />
 <br />
 ## Skills
@@ -22,6 +23,7 @@ I possess a strong passion for Machine Learning and Data Analysis. I am pursuing
   <li>Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, PyTorch)</li>
   <li>Excel</li>
   <li>PowerBI</li>
+  <li>SQL</li>
   <li>AWS</li>
 </ul>
 
@@ -39,13 +41,12 @@ I possess a strong passion for Machine Learning and Data Analysis. I am pursuing
 
 <h2>Other Technical Skills:</h2>
 <ul>
-  <li>SQL</li>
   <li>MongoDB</li>
   <li>Flask</li>
   <li>Web Scraping</li>
   <li>OOP (Object-oriented Programming)</li>
   <li>API Call</li>
-  <li>Git</li>
+  <li>Gitlab</li>
   <li>GitHub</li>
 </ul>
 
@@ -55,5 +56,5 @@ I possess a strong passion for Machine Learning and Data Analysis. I am pursuing
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamshikrishnha1&show_icons=true&locale=en&layout=compact" alt="konidenasaikumar" /></p>
+<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamshikrishnha1&show_icons=true&locale=en&layout=compact" alt="vamshikrishnabodige" /></p>
 
