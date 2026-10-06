@@ -2,7 +2,7 @@
 <a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/teamwork-icons-with-people-puzzle-handshake_107791-9507.jpg?w=1380&t=st=1692307922~exp=1692308522~hmac=5e58c34597209e300a73ddc0e18fea8ddac4bbc6e3435a5cf2adbda232d997bb" height="150px"/></a>
 
 <h1 align="center">Hi 👋, I'm Vamshi Krishna Bodige</h1><p align="left">
-<h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
+<h3 align="center">A passionate Data Aspirant from India, currently living in Germany.</h3>
 
 - 📫 How to reach me **vamshikrishna.bodige@outlook.com**
 
@@ -13,17 +13,17 @@
 
 ## Introduction
 
-Data Analyst with an engineering background and hands-on experience turning sales, finance, production, test-bench, and manufacturing data into automated reports and dashboards. Skilled 
+Data Aspirant with an engineering background and hands-on experience turning sales, finance, production, test-bench, and manufacturing data into automated reports and dashboards. Skilled 
 in Excel, Power BI, SQL, Python, and Machine Learning with a track record of building reusable analysis tools that supported process control and delivered a 30% efficiency gain in a manufacturing setting. Comfortable working across technical and commercial teams, quick to learn new systems.
 <br />
 <br />
 ## Skills
 <h2>Programming & Data Visualization:</h2>
 <ul>
-  <li>Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, PyTorch)</li>
   <li>Excel</li>
   <li>PowerBI</li>
   <li>SQL</li>
+  <li>Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, PyTorch)</li>
 </ul>
 
 <h2>Statistical Techniques & ML:</h2>
