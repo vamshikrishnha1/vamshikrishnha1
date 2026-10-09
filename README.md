@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vamshi Krishna Bodige</h1><p align="left">
 <h3 align="center">Data Aspirant from India, currently living in Germany.</h3>
 
-- 📫 How to reach me **vamshikrishna.bodige@outlook.com**
+- 📫 How to reach me **vamshikrishnabodige25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
