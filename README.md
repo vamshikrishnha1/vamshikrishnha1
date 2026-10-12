@@ -2,13 +2,17 @@
 
 # Hi 👋, I'm Vamshi Krishna Bodige
 
-Data Analyst & Python Developer based in Germany, with an engineering and research background.
+Welcome to my realm of code and creativiy!
 
-I build end-to-end data analysis and Python workflows that turn raw data into clean datasets, interactive dashboards, visual insights, and predictive models. My experience includes sales, finance, production, test-bench, and manufacturing data.
+## About Me 
+
+Master's Student in Germany, passionate about Data Analytics and Machine Learning.
+
+I build end-to-end data analysis and Python workflows that turn raw data into clean datasets, interactive dashboards, visual insights, and predictive models. My experience includes energy, sales, finance, production, test-bench, and manufacturing data.
 
 During my internship and master’s thesis, I developed reusable Python tools for data cleaning, exploratory analysis, time-series analysis, visualization, simulation, and machine-learning-supported modeling. One of my manufacturing analysis projects supported a new pressing procedure and contributed to an approximately 30% process-efficiency improvement.
 
-I am targeting Data Analyst, Python Developer, entry-level Machine Learning, and research-oriented roles.
+I am targeting Machine Learning, Data Analyst, Python Developer, and renewable energy research-oriented roles.
 
 📫 **How to reach me:** vamshikrishnabodige25@gmail.com  
 <h3 align="left">Connect with me:</h3>
