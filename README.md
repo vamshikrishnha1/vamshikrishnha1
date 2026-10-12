@@ -53,7 +53,8 @@ I am targeting Data Analyst, Python Developer, entry-level Machine Learning, and
 - KNN, Random Forest, XGBoost, SVM, Naive Bayes  
 - PCA & Clustering  
 - Time-Series Analysis  
-- Model Evaluation  
+- Model Evaluation
+- Deep Learning
 
 ### Other Tools
 - PyTorch  
